@@ -1,12 +1,10 @@
-<div class="oranda-hide">
 # Learn Scala 3 together
-</div>
 
 Welcome to `learn_scala_together`. This project contains small practical exercises to get you to write Scala 3 code and understand basic and advanced features.
 
 This project is inspired by tutorial projects from other languages, such as Rust and others.
 
-The project's goal is to gradually study the Scala 3 language and expand Scala user community using practical examples and practice using popular ecosystem libraries such as ZIO, Cats, Http4s, and others!
+The project's goal is to gradually study the Scala 3 language and expand the Scala user community using practical examples and practice using popular ecosystem libraries such as ZIO, Cats, Http4s, and others!
 
 ## Getting Started
 
